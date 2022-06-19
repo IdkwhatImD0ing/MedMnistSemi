@@ -1,5 +1,5 @@
 # MedMnist Entropy-based Semi-Supervised Machine Learning
-Machine Learning model trained on a modified version of the MedMNIST dataset.
+Machine Learning model trained on a modified version of the MedMNIST dataset. First place in competition with 28 competitors.
 
 ## Competition Link
 https://www.kaggle.com/competitions/ucsc-cse-164-spring-2022-final-project/leaderboard?tab=public
